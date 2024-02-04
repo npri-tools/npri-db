@@ -1,2 +1,2 @@
 # npri-db
-Scripts for accessing and copying NPRI, Stat Can, and other data
+Scripts to access, copy, and create new views of NPRI, Stat Can, and other data
